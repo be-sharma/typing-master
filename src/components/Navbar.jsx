@@ -69,7 +69,7 @@ function Navbar() {
   return (
     <>
       {/* Navbar */}
-      <header className="fixed left-0 top-0 z-50 w-full border-b border-white/10 bg-black/80 backdrop-blur-xl">
+      <header className="sticky left-0 top-0 z-50 w-full border-b border-white/10 bg-black/80 backdrop-blur-xl">
 
         <nav className="mx-auto flex h-16 max-w-7xl items-center justify-between px-5 sm:px-8">
 

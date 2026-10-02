@@ -8,7 +8,7 @@ function Home() {
       <Navbar />
 
       {/* Hero Section */}
-<section className="flex min-h-[85vh] flex-col items-center justify-center px-5 pt-24 text-center">
+<section className="flex min-h-[85vh] flex-col items-center justify-center px-5 text-center">
         <p className="mb-6 text-xs tracking-[0.25em] text-zinc-500">
           ⌨️ MASTER YOUR KEYBOARD
         </p>
